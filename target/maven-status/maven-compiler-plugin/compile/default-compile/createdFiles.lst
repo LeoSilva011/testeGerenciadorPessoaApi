@@ -1,0 +1,14 @@
+com/gerenciador/pessoa/domain/model/Pessoa.class
+com/gerenciador/pessoa/domain/model/dto/PessoaDTO.class
+com/gerenciador/pessoa/api/exception/DataInvalidaException.class
+com/gerenciador/pessoa/api/controller/PessoaController.class
+com/gerenciador/pessoa/domain/repository/PessoaRepository.class
+com/gerenciador/pessoa/domain/repository/EnderecoRepository.class
+com/gerenciador/pessoa/api/exception/RequisicaoInvalidaException.class
+com/gerenciador/pessoa/domain/model/dto/EnderecoDTO.class
+com/gerenciador/pessoa/domain/service/EnderecoService.class
+com/gerenciador/pessoa/api/exception/EntidadeNaoEncontradaException.class
+com/gerenciador/pessoa/domain/service/PessoaService.class
+com/gerenciador/pessoa/domain/model/Endereco.class
+com/gerenciador/pessoa/api/controller/EnderecoController.class
+com/gerenciador/pessoa/PessoaApiApplication.class

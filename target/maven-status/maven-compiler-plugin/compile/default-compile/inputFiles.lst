@@ -1,0 +1,14 @@
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/api/controller/PessoaController.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/api/exception/RequisicaoInvalidaException.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/domain/service/PessoaService.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/domain/model/dto/EnderecoDTO.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/api/exception/EntidadeNaoEncontradaException.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/domain/model/Endereco.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/api/controller/EnderecoController.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/domain/repository/PessoaRepository.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/domain/model/Pessoa.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/PessoaApiApplication.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/domain/model/dto/PessoaDTO.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/domain/service/EnderecoService.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/api/exception/DataInvalidaException.java
+/home/leo/Documentos/teste-vaga/gerenciador-api/src/main/java/com/gerenciador/pessoa/domain/repository/EnderecoRepository.java
