@@ -5,7 +5,7 @@ Este é um projeto de API REST implementado usando Spring Boot. A API fornece re
 
 
 
-Endpoints disponíveis
+ **Endpoints disponíveis**
 
 - GET /pessoas: retorna uma lista paginada de todas as pessoas cadastradas
 - GET /pessoas/{idPessoa}: retorna uma pessoa específica pelo seu ID
@@ -16,18 +16,18 @@ Endpoints disponíveis
 - GET /enderecos/{idPessoa}/endereco-principal: retorna o endereço principal de uma pessoa específica pelo seu ID
 - POST /enderecos: adiciona um novo endereço
 
-Exemplos de JSON
+### Exemplos de JSON
 
-POST/PUT de Pessoa
-json
+**POST/PUT de Pessoa
+json**
 ```
 {
     "nome": "João",
     "dataNascimento": "11/08/1990"
 }
 ```
-POST de Endereço
-json
+**POST de Endereço
+json**
 ```
 {
     "logradouro": "Rua das Flores",
