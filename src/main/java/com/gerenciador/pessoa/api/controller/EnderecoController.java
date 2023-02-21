@@ -40,7 +40,7 @@ public class EnderecoController {
     }
     // Endpoint para buscar endereços de uma pessoa pelo ID da pessoa
     @GetMapping("/{idPessoa}/pessoas")
-    public  ResponseEntity<List<EnderecoDTO>> buscarEnderecoPorIdPessoa(@PathVariable Long idPessoa){
+    public  ResponseEntity<List<EnderecoDTO>> buscarEnderecosPorIdPessoa(@PathVariable Long idPessoa){
         try{
 
             List<Endereco> enderecos = enderecoService.enderecosPessoa(idPessoa);
